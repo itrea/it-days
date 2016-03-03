@@ -27,7 +27,7 @@ git clone https://github.com/itrea/it-days.git
 
 Create a file called `.gitignore` inside your repository
 
-.gitignore
+_.gitignore_
 ```
 .DS_Store # ignore this anoying file on mac
 folder\subfolder\* # ignore all files inside a subfolder of a folder
