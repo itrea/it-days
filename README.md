@@ -16,7 +16,7 @@ cd ~/Desktop
 cd C:\Users\*your username*\Desktop
 ```
 
-To clone this repository open up your terminal/cmd and enter.
+To clone this repository open up your terminal/cmd and enter
 ```
 git clone https://github.com/itrea/it-days.git
 ```
