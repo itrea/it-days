@@ -1,20 +1,17 @@
 # Welcome to the it-days github.com beginner course
 
-Open up the terminal
+If you haven't already setup your username and email do this in your Terminal/CMD
 ```
-Run:
 git config --global user.email "enter your email here"
 git config --global user.name "enter your name here"
-cd ~/Desktop
-or if you have a danish installation
-cd ~/Skrivebord
 ```
 
-If you are on Windows open the CMD
+Open up the terminal/CMD
 ```
-Run:
-git config --global user.email "enter your email here"
-git config --global user.name "enter your name here"
+# Mac/Linux:
+cd ~/Desktop
+
+# Windows
 cd C:\Users\*your username*\Desktop
 ```
 
