@@ -1,5 +1,6 @@
 # github.com beginner course
 Welcome to our Github it-days course
+This is my chage
 
 If you haven't already setup your username and email do this in your Terminal/CMD
 ```
